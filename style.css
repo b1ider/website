@@ -1,0 +1,95 @@
+table td {
+    border:1px solid black;
+    padding: 5px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.jn {
+    background-color: rgb(99, 99, 187);
+    color: white;
+}
+.ja {
+    background-color: rgb(202, 53, 53);
+    color: white;
+}
+.zk {
+    background-color: rgb(127, 202, 167);
+    color: white;
+}
+.mz {
+    background-color: rgb(187, 163, 99);
+    color: white;
+}
+.ge {
+    background-color: rgb(159, 99, 187);
+    color: white;
+}
+
+.wf {
+    background-color: rgb(177, 82, 177);
+    color: white;
+}
+
+.mt {
+    background-color: rgb(47, 73, 218);
+    color: white;
+}
+
+.jp {
+    background-color: rgb(48, 75, 37);
+    color: white;
+}
+
+.bg {
+    background-color: rgb(17, 187, 40);
+    color: white;
+}
+
+.hs {
+    background-color: rgb(19, 37, 15);
+    color: white;
+}
+
+.fz {
+    background-color: rgb(5, 25, 117);
+    color: white;
+}
+
+.rg {
+    background-color: rgb(192, 166, 148);
+    color: white;
+}
+
+.in {
+    background-color: rgb(24, 24, 24);
+    color: white;
+}
+
+.ch {
+    background-color: rgb(189, 241, 0);
+    color: white;
+}
+
+.wych {
+    background-color: rgb(134, 59, 100);
+    color: white;
+}
+
+.zaw {
+    background-color: rgb(192, 99, 107);
+    color: white;
+}
+
+.pl {
+    background-color: rgb(76, 8, 211);
+    color: white;
+}
+
+.wd {
+    background-color: rgb(96, 105, 230);
+    color: white;
+}
+
+
+
+
